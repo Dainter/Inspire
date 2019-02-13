@@ -1,0 +1,6 @@
+Rod_1: 17.10mm
+Rod_2: 32.56mm
+Rod_3: 54.5mm
+Rod_4: 85.42mm
+Rod_5: 190.14mm
+x:20.3mm
