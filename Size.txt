@@ -1,6 +1,8 @@
-Rod_1: 17.10mm
-Rod_2: 32.56mm
-Rod_3: 54.5mm
-Rod_4: 85.42mm
-Rod_5: 190.14mm
-x:20.3mm
+Rod_1: 17.10mm  	-> 17mm
+Rod_2: 32.56mm  	-> 32.32mm
+Rod_3: 54.5mm  	-> 54mm
+Rod_4: 85.42mm  	-> 84.64mm
+Rod_5: 		-> 128mm
+Rod_6: 190.14mm  	-> 189.28mm
+Connector:20.3mm  	-> 20mm
+
